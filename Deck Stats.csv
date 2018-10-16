@@ -1,0 +1,36 @@
+player_archetype,card_name,held_percentage,drawn_wr,played_wr,turns_held,turn_played
+Aggro Paladin,Argent Squire,94.20,58.70,0.58,0.74,3.64
+Aggro Paladin,Lost in the Jungle,94.10,59.40,0.58,0.82,4.4
+Aggro Paladin,Righteous Protector,95.30,59.20,0.59,0.6,3.6
+Aggro Paladin,Dire Wolf Alpha,56.00,56.60,0.57,1.41,4.78
+Aggro Paladin,Drygultch Jailor,66.50,56.30,0.55,1.12,4.25
+Aggro Paladin,Equality,8.30,55.30,0.49,2.35,7.55
+Aggro Paladin,Knife Juggler,61.60,56.40,0.56,1.13,4.56
+Aggro Paladin,Divine Favor,17.70,55.30,0.50,2.61,7.71
+Aggro Paladin,Rallying Blade,45.20,56.40,0.57,1.68,5.93
+Aggro Paladin,Steward of Darkshire,31.10,55.30,0.53,1.41,5.9
+Aggro Paladin,Unidentified Maul,35.30,56.40,0.57,1.68,6.16
+Aggro Paladin,Call to Arms,80.50,61.00,0.60,1.76,5.44
+Aggro Paladin,Lightfused Stegodon,9.20,55.10,0.56,2.13,7.59
+Aggro Paladin,Level Up!,3.30,55.90,0.60,2.58,8.53
+Aggro Paladin,Stand Against Darkness,4.70,55.90,0.49,2.05,7.2
+Aggro Paladin,Crystal Lion,7.70,54.90,0.55,1.94,7.26
+Aggro Paladin,Sunkeeper Tarim,7.60,59.50,0.63,2.39,8.13
+Aggro Paladin,Vinecleaver,0.70,55.80,0.55,2.31,8.29
+Cube Warlock,Dark Pact,34.50,62.10,0.65,3.27,8.19
+Cube Warlock,Kobold Librarian,97.10,59.90,0.60,0.68,4.77
+Cube Warlock,Mortal Coil,65.00,59.70,0.60,2.33,6.78
+Cube Warlock,Defile,57.10,59.60,0.57,3.67,7.82
+Cube Warlock,Tar Creeper,77.10,59.88,0.58,1.74,6.07
+Cube Warlock,Voodoo Doll,21.90,59.00,0.56,3.05,8.33
+Cube Warlock,Hellfire,43.90,59.00,0.59,3.41,8.45
+Cube Warlock,Lesser Amethyst Spellstone,36.80,59.60,0.57,3.39,8.49
+Cube Warlock,Spiritsinger Umbra,20.30,59.60,0.65,2.97,8.62
+Cube Warlock,Carnivorous Cube,8.10,59.50,0.72,3.56,9.75
+Cube Warlock,Doomguard,5.10,58.90,0.57,3.85,10.2
+Cube Warlock,Possessed Lackey,66.40,60.60,0.63,2.76,7.35
+Cube Warlock,Skull of the Man'ari,81.70,61.30,0.65,2.5,7.23
+Cube Warlock,Lord Godfrey,4.30,58.90,0.52,3.88,10.1
+Cube Warlock,Voidlord,4.50,58.00,0.51,3.37,10.02
+Cube Warlock,Bloodreaver Gul'dan,7.90,60.50,0.68,4.13,11.96
+Cube Warlock,Mountain Giant,70.60,59.30,0.62,2.29,6.76
